@@ -6,6 +6,6 @@
 		<title>JSP - Hello World Tutorial - Programmer Gate</title>
 	</head>
 	<body>
-		<%= "Hello World!" %> good afternoon
+		<%= "Hello World!" %> Hi Friday
 	</body>
 </html>
